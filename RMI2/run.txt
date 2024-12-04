@@ -1,0 +1,4 @@
+T1= javac *.java 
+T2 = rmiregistry
+T3= java -cp . SearchServer
+T4= java -cp . ClientRequest
