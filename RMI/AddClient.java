@@ -20,6 +20,7 @@ public class AddClient {
    // 1st Terminal:
     javac AddServerIntf.java AddServerImpl.java AddServer.java AddClient.java
     start rmiregistry
+    start "C:\Program Files\Java\jdk-23\bin\rmiregistry.exe"
    
 
    // 2nd Terminal:
